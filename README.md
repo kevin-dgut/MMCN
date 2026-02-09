@@ -1,5 +1,4 @@
 # Multimetric Brain Functional-Structural Connectivity Mutual Coupling for Mild Cognitive Impairment Identification
-[2025/12] The code will be fully published after inclusion. Thank you for your attention.
 [2026/02] This is the official PyTorch implementation of MMCN from the paper "Multimetric Brain Functional-Structural Connectivity Mutual Coupling for Mild Cognitive Impairment Identification".
 
 
