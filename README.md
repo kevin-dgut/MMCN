@@ -10,29 +10,29 @@ Mild cognitive impairment (MCI) is an intermediate stage between normal cognitio
 The public ADNI dataset used in the paper is downloaded from its official websites (https://adni.loni.usc.edu/).
 
 ## Requirements
-Python 3.11.5
+Python >= 3.11.5
 
-torch>=2.0.1
+torch >= 2.0.1
 
-torchvision>=0.15.2
+torchvision >= 0.15.2
 
-torchaudio>=2.0.2
+torchaudio >= 2.0.2
 
-numpy>=1.24
+numpy >= 1.24
 
-scipy>=1.10
+scipy >= 1.10
 
-scikit-learn>=1.2
+scikit-learn >= 1.2
 
-pandas>=1.5
+pandas >= 1.5
 
-matplotlib>=3.6
+matplotlib >= 3.6
 
-seaborn>=0.12
+seaborn >= 0.12
 
-tqdm>=4.64
+tqdm >= 4.64
 
-Pillow>=9.4
+Pillow >= 9.4
 
 ## Optional
 - GPU support is recommended for faster training
